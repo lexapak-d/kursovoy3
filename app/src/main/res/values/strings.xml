@@ -1,0 +1,26 @@
+<resources>
+    <!-- App -->
+    <string name="app_name">Диктофон</string>
+
+    <!-- Activity -->
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="record_audio">Записать аудио</string>
+    <string name="play_audio">Воспроизвести аудио</string>
+    <string name="textstart"> Патрин компани Voice recorder</string>
+
+    <!-- Sheets -->
+    <string name="sheet_to_close">Закрыть</string>
+    <!-- sheet_voice_recording -->
+    <string name="sheet_voice__title">Говорите</string>
+    <string name="sheet_voice_stop_recording">Остановить запись</string>
+    <!-- sheet_list_files -->
+    <string name="sheet_list_title">Список файлов</string>
+    <string name="sheet_list_empty">Пусто</string>
+
+    <!-- Snackbar -->
+    <string name="sb_no_permissions">Нет необходимых разрешений!</string>
+    <string name="sb_successfully_saved">Файл успешно записан и сохранен: \n
+        /Documents/Dictaphone/</string>
+    <string name="sb_failed_record">Ошибка! Невозможно записать файл!</string>
+    <string name="sb_failed_play">Ошибка! Невозможно воспроизвести файл!</string>
+</resources>
